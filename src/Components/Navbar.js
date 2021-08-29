@@ -36,11 +36,11 @@ const Navbar = () => {
                                     </li>
                                 </ul>
                                 <div class="difOpt">
-                                    {/* <ul>
+                                    <ul>
                                         <li><a href="#"><i class="fa fa-user"></i></a></li>
                                         <li><a href="#"><i class="fa fa-shopping-cart"></i></a></li>
                                         <li><a href="#"><i class="fa fa-search"></i></a></li>
-                                    </ul> */}
+                                    </ul>
                                     <a href="#" class="btnStyle">Book Now</a>
                                 </div>
                             </div>
